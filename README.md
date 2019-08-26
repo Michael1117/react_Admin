@@ -66,3 +66,27 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+```shell
+michaelhee@DESKTOP-FNSEB12 MINGW64 /d/node/workspace/react_project/react-admin-client (dev)
+$ git init
+Initialized empty Git repository in D:/node/workspace/react_project/react-admin-client/.git/
+
+michaelhee@DESKTOP-FNSEB12 MINGW64 /d/node/workspace/react_project/react-admin-client (master)
+$ git add .
+michaelhee@DESKTOP-FNSEB12 MINGW64 /d/node/workspace/react_project/react-admin-client (master)
+$ git commit -m "first commit"
+michaelhee@DESKTOP-FNSEB12 MINGW64 /d/node/workspace/react_project/react-admin-client (master)
+$ git remote add origin https://github.com/Michael1117/react_Admin.git
+
+michaelhee@DESKTOP-FNSEB12 MINGW64 /d/node/workspace/react_project/react-admin-client (master)
+$ git push -u origin master
+
+michaelhee@DESKTOP-FNSEB12 MINGW64 /d/node/workspace/react_project/react-admin-client (master)
+$ git checkout -b dev
+Switched to a new branch 'dev'
+michaelhee@DESKTOP-FNSEB12 MINGW64 /d/node/workspace/react_project/react-admin-client (dev)
+$ git push origin dev
+
+```
+
